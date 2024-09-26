@@ -1,17 +1,35 @@
-## Hi there 👋
+# my Profile
+
+## Hi, I am Maliheh 👋 
+
+## DCi Student - Web-Development
+
+### my target  🎯
+ **freelancer job**
 
 
-<!--
-**MelissaKebi/Melissakebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**My youtube Channel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[YouTube](https://www.youtube.com/)
+
+![youtubelogo](https://cdn.pixabay.com/photo/2017/09/04/00/08/youtube-2712573_640.png)
+
+### Skills 💻
+
+- **Languages** :   Java,
+- **Devops**    :   Linux, win
+
+### Work experience 📚
+
+| Job Position     | Company      | Work Period|
+|:------------------|:-------------:|--------:|
+|Busieness Managerin| Tehran Novin | 2010-2019|
+|Team Header | Ehingen Co. | 2019-2024|
+
+
+### Education 🎓
+
+- Bachelor's Degree - Computer Software
+
+
