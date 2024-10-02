@@ -17,7 +17,7 @@
 
 ### Skills 💻
 
-- **Languages** :   Java,
+- **Languages** :   Javascript,
 - **Devops**    :   Linux, win
 
 ### Work experience 📚
