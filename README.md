@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Melissa
 ===============================================================================================================================
 
-I am a Web-Dev student
+DCi Student - Web-Development
 
 * 🌍  I'm based in Ulm
 
@@ -24,12 +24,6 @@ I am a Web-Dev student
 <a href="http://www.github.com/MelissaKebi"><img src="https://github-readme-stats.vercel.app/api?username=MelissaKebi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MelissaKebi's GitHub stats" /></a>
 
 
-
-# my Profile
-
-## Hi, I am Melissa 👋 
-
-## DCi Student - Web-Development
 
 ### my target  🎯
  **freelancer job**
