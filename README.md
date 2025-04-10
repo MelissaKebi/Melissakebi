@@ -30,12 +30,6 @@ DCi Student - Web-Development
 
 
 
-**My youtube Channel**
-
-[YouTube](https://www.youtube.com/)
-
-![youtubelogo](https://cdn.pixabay.com/photo/2017/09/04/00/08/youtube-2712573_640.png)
-
 ### Skills 💻
 
 - **Languages** :   Javascript,
