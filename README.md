@@ -25,24 +25,6 @@ DCi Student - Web-Development
 
 
 
-### my target  🎯
- **freelancer job**
-
-
-
-### Skills 💻
-
-- **Languages** :   Javascript,
-- **Devops**    :   Linux, win
-
-### Work experience 📚
-
-| Job Position     | Company      | Work Period|
-|:------------------|:-------------:|--------:|
-|Busieness Managerin| Tehran Novin | 2010-2019|
-|Team Header | Ehingen Co. | 2019-2024|
-
-
 ### Education 🎓
 
 - Bachelor's Degree - Computer Software
